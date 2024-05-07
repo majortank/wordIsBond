@@ -27,7 +27,18 @@ This method takes in a user message as input, analyzes its sentiment, and genera
 
 The Streamlit UI is simple and intuitive. It consists of a title, a text input field for the user's message, and a text area to display the chatbot's response.
 ![image](https://github.com/majortank/wordIsBond/assets/41399491/045d655b-613e-4616-b1cb-f57218e661fb)
+# Why WordIsBond?
+"Word is Bond" for several reasons:
 
+1. **Trustworthiness**: The phrase "word is bond" conveys a sense of trustworthiness and reliability. By using this name, the chatbot suggests that it will uphold its promises and commitments, fostering trust between the user and the AI.
+
+2. **Confidence in Accuracy**: The term "word" implies a commitment to truth and accuracy. Users may feel confident that the chatbot will provide accurate and reliable responses to their queries or discussions about sentiments.
+
+3. **Connection to Communication**: "Word is bond" has roots in colloquial language, particularly within certain cultural contexts. This connection to everyday language can make the chatbot feel more approachable and relatable to users.
+
+4. **Emotional Connection**: Sentiment-based interactions often involve emotional elements. The phrase "word is bond" carries emotional weight, suggesting a bond or connection between the user and the chatbot, which can enhance the emotional resonance of the interaction.
+
+5. **Memorability**: The name "Word is Bond" is memorable and catchy, making it easy for users to recall when seeking out a sentiment-based chatbot for future interactions.
 
 ## Usage
 
