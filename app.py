@@ -27,7 +27,7 @@ class ChatBot:
 chatbot = ChatBot()
 
 # Streamlit UI
-st.title('ChatBot')
+st.title('WordIsBond ChatBot')
 user_message = st.text_input("You: ")
 
 if user_message:
